@@ -1,0 +1,21 @@
+body {
+	background-color: silver;
+}
+
+#menu {
+	text-align: center;
+	border: solid;
+	border-top-style: inset;
+	background-color: white;
+	padding: 7px;
+}
+
+.el_menu {
+	border: solid;
+	border-style: ridge;
+	padding: 2px;
+}
+
+.el_menu a:hover{color:yellow;}
+.el_menu a:visited{color:green;}
+.el_menu a:link{color:blue;}

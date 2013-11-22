@@ -1,0 +1,41 @@
+body {
+	background-color: silver;
+	overflow:hidden;
+
+}
+
+#menu {
+	position: fixed;
+	top: 0%;
+	right: 0%;
+	width: 100%; 
+	text-align: center;
+	border: solid;
+	border-top-style: inset;
+	background-color: white;
+	padding: 7px;
+}
+
+#tresc {
+	position:absolute;
+	min-height:50%;
+	
+	width:99%;
+	overflow: scroll;
+
+}
+
+.el_menu {
+	border: solid;
+	border-style: outset;
+	padding: 2px;
+}
+
+.el_menu:active {
+	border-style: inset;
+}
+
+a {
+	text-decoration: none;
+}
+

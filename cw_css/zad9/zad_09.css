@@ -1,0 +1,11 @@
+body {
+	background-color: silver;
+}
+
+#menu {
+	text-align: center;
+	border: solid;
+	border-top-style: inset;
+	background-color: white;
+}
+

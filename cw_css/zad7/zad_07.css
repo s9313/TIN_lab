@@ -1,0 +1,17 @@
+.C{
+	height: 40px;
+	width: 400px;
+	padding:10px;
+	
+}
+.A{
+	position: relative;
+	bottom: 2ex;
+	left: 2em;
+	
+}
+.B{
+	position: relative;
+	bottom: 3.5ex;
+	left: 2em;
+}

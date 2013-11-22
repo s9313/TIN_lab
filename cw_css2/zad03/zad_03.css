@@ -1,0 +1,24 @@
+body {
+	width: 900px;
+	background-color: #eee;
+	
+}
+
+#menu {
+    position: absolute;
+    top: 0; left: 0;
+    width: 80px;
+    background-color: #d1940c;
+		padding-left: 100px;
+	padding-right: 20px;
+}
+
+#tresc {
+
+		text-indent: 0.5cm;
+	text-align: justify;
+	padding-top: 10px;
+	padding-left: 200px;
+	padding-right: 30px;
+
+}

@@ -1,0 +1,22 @@
+body {
+	background-color: white;
+	background-image: url(listki.gif);
+	background-repeat: repeat-y;
+}
+
+div {
+	margin-left: 100px;
+	margin-right: 20px;
+	text-align: justify;
+	padding: 20px;
+	border-style: solid;
+}
+
+img {
+	float: left;
+}
+
+p{
+    text-indent: 0.5cm;
+
+}

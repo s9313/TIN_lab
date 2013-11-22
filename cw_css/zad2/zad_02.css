@@ -1,0 +1,18 @@
+body {
+	background-color: white;
+	border-style: solid;
+}
+
+div {
+	background-image: url(papier.gif);
+	
+}
+
+p { 
+	text-indent: 0.5cm;
+	text-align: justify;
+	padding-top: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+
+}

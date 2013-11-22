@@ -1,0 +1,19 @@
+.C{
+	border: solid 2px red;
+	height: 40px;
+	width: 400px;
+	padding:10px;
+	background: yellow;
+	
+}
+.A{
+	position: relative;
+	bottom: 2ex;
+	left: 2em;
+	
+}
+.B{
+	position: relative;
+	bottom: 3.5ex;
+	left: 2em;
+}
